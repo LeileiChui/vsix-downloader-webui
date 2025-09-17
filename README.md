@@ -2,7 +2,7 @@
 
 A Simple WebUI Created with Tailwind for Fetching VSCode Extensions VSIX files from the Marketplace.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: APACHE 2.0](https://img.shields.io/badge/License-APACHE-yellow.svg)](https://opensource.org/licenses/APACHE-2.0)
 [![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)](https://www.javascript.com)
 
 ## !! Notice
